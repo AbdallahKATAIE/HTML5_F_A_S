@@ -1,6 +1,8 @@
 # project1
 
 ## Project setup
+#IMPORTANT : IL FAUT INSTALLER NODE.JS DANS CE REPERTOIRE
+
 ```
 npm install
 ```
